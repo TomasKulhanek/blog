@@ -1,4 +1,8 @@
-## WEBDAV via bash, CURL
+---
+layout: post
+title: WEBDAV via bash
+---
+## WEBDAV via bash
 [Web Distributed Authoring and Versioning (WebDAV)](https://en.wikipedia.org/wiki/WebDAV) is extension of HTTP. Thus HTTP requests can be used in order to GET or PUT file.
 Prerequisite: install curl using your OS package manager `yum install curl` or `apt-get install curl`. cURL is command-line tool for transferring data using various protocols available as standard package in most OS.
 
