@@ -16,16 +16,15 @@
 
   <body>
     <header>
+    <!--orig-->
       <div class="inner">
-            <h1><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+        <a href="{{ '/' | absolute_url }}">
+          <h1>{{ site.name }}</h1>
+        </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        {% if site.github.is_project_page %}
-          <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
-        {% endif %}
-        {% if site.github.is_user_page %}
           <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
-        {% endif %}
       </div>
+        
     </header>
 
     <div id="content-wrapper">
