@@ -1,1 +1,1 @@
-# blog
+# Technology blog and notes
