@@ -8,4 +8,4 @@ As some of the West-Life deliverables utilizes CernVM and CernVM-FS technology, 
 Recording of this talk:
 <iframe class="lecture" src="https://mediastream.cern.ch/MediaArchive/Video/Public2/weblecture-player/index.html?year=2018&lecture=608592c27" width="1020px" height="600px" allowfullscreen scrolling="no" frameborder="0"></iframe>
 
-Original recording site http://cds.cern.ch/record/2302615
+Original recording site [http://cds.cern.ch/record/2302615](http://cds.cern.ch/record/2302615)
