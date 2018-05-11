@@ -6,6 +6,9 @@ title: Talk in CERN about West-Life
 to end computer (virtual machine) over network leveraging heavily the proxy caching mechanism.
 As some of the West-Life deliverables utilizes CernVM and CernVM-FS technology, I had a talk in CERN during CernVM User Workshop in 2018.
 Recording of this talk:
-<iframe class="lecture" src="https://mediastream.cern.ch/MediaArchive/Video/Public2/weblecture-player/index.html?year=2018&lecture=608592c27" width="1020px" height="600px" allowfullscreen scrolling="no" frameborder="0"></iframe>
+<video width="720" height="480" controls>
+  <source src="https://mediastream.cern.ch/MediaArchive/Video/Public/WebLectures/2018/608592c27/608592c27_desktop_camera_480p_1000.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
 
-Original recording site [http://cds.cern.ch/record/2302615](http://cds.cern.ch/record/2302615)
+See/download full slides and recording from [http://cds.cern.ch/record/2302615](http://cds.cern.ch/record/2302615)
