@@ -17,7 +17,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 disqus:
-google_analytics:
+google_analytics: UA-119252699-1
 url: http://tomaskulhanek.github.io
 baseurl: "/blog"
 
