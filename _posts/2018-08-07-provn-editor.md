@@ -2,10 +2,9 @@
 layout: post
 title: ACE Editor for PROVN
 ---
-## ACE Editor for PROVN 
+The presented editor integrates [ACE editor](https://ace.c9.io/) with custom syntax highlighting and syntax validation using [ANTLR4](http://www.antlr.org/) grammar for [PROV-N](https://github.com/antlr/grammars-v4/tree/master/prov-n).![PROV-N editor screenshot](https://raw.githubusercontent.com/h2020-westlife-eu/prov-n-editor/master/Editor1.PNG)
 
-[PROV-N](https://www.w3.org/TR/2013/REC-prov-n-20130430/) is standard notation to hold provenance of data part of recomendation of [W3C PROV-O Ontology](https://www.w3.org/TR/prov-o/).
-The presented editor integrates [ACE editor](https://ace.c9.io/) with custom syntax highlighting and syntax validation using [ANTLR4](http://www.antlr.org/) grammar for [PROV-N](https://github.com/antlr/grammars-v4/tree/master/prov-n).
+[PROV-N](https://www.w3.org/TR/2013/REC-prov-n-20130430/) is standard notation to hold provenance of data part of recomendation of [W3C PROV-O Ontology](https://www.w3.org/TR/prov-o/). 
 
 The proof of concept sample editor can
 - communicate with other web apps using cross document messaging API (window.opener.postMessage()).
