@@ -22,3 +22,6 @@ The proof of concept sample editor can
 - [Empty document](https://h2020-westlife-eu.github.io/prov-n-editor/)
 - [short document](https://h2020-westlife-eu.github.io/prov-n-editor/#content=document%0Dentity(e1)%0DendDocument)
 - [longer document encoded base64](https://h2020-westlife-eu.github.io/prov-n-editor/#contentBase64=ZG9jdW1lbnQNCiAgZGVmYXVsdCA8aHR0cDovL2Fub3RoZXJleGFtcGxlLm9yZy8+DQogIHByZWZpeCBleCA8aHR0cDovL2V4YW1wbGUub3JnLz4NCiAgZW50aXR5KGUyLCBbIHByb3Y6dHlwZT0iRmlsZSIsIGV4OnBhdGg9Ii9zaGFyZWQvY3JpbWUudHh0IiwgZXg6Y3JlYXRvcj0iQWxpY2UiLCANCiAgICAgICAgICAgICAgIGV4OmNvbnRlbnQ9IlRoZXJlIHdhcyBhIGxvdCBvZiBjcmltZSBpbiBMb25kb24gbGFzdCBtb250aC4iXSkNCiAgICAgICAgICAgICAgIGFjdGl2aXR5KGExLCAyMDExLTExLTE2VDE2OjA1OjAwLCAtLCBbcHJvdjp0eXBlPSJlZGl0Il0pDQogIHdhc0dlbmVyYXRlZEJ5KGUyLCBhMSwgLSwgW2V4OmZjdD0ic2F2ZSJdKSAgICAgDQogIHdhc0Fzc29jaWF0ZWRXaXRoKGExLCBhZzIsIC0sIFtwcm92OnJvbGU9ImF1dGhvciJdKQ0KICBhZ2VudChhZzIsIFsgcHJvdjp0eXBlPSdwcm92OlBlcnNvbicsIGV4Om5hbWU9IkJvYiIgXSkNCmVuZERvY3VtZW50)
+
+## Source code
+- https://github.com/h2020-westlife-eu/prov-n-editor
