@@ -15,8 +15,6 @@ The proof of concept sample editor can
   - 'contentBase64' for base64 encoded text 
   - 'contentLZ' for LZ compressed and base64 encoded text,
 
-![PROV-N editor screenshot](https://raw.githubusercontent.com/h2020-westlife-eu/prov-n-editor/master/Editor1.PNG)
-
 ## Live demo 
 - [h2020-westlife-eu.github.io/prov-n-editor/](https://h2020-westlife-eu.github.io/prov-n-editor/)
 - [Empty document](https://h2020-westlife-eu.github.io/prov-n-editor/)
